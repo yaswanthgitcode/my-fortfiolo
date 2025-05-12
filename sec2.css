@@ -14,9 +14,7 @@
 .sec-2-1>:nth-child(1){
     font-weight: 600;
 }
-.sec-2-1 {
-    padding-top: 20px;
-}
+
 .sec-2-2{
     margin-top: 130px;
     display: flex;
