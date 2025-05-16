@@ -53,21 +53,52 @@
 }
 
 @media(max-width:767px) {
-    .sec5{
+    .sec5 {
         margin-top: 600px;
         padding-top: 200px;
-        
-       
+
+
     }
+
     .sec-5-2 {
         gap: 20px;
         padding: 10px;
     }
+
 }
+
 @media(max-width:1024px) {
-    .sec5{
+    .sec5 {
         margin-top: 800px;
         padding-top: 200px;
     }
-   
+
+}
+
+@media (min-height: 740px) and (max-height: 1024px) {
+
+    
+    .sec5 {
+        margin-top: 350px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (min-height: 1024px) and (max-height: 1024px) 
+{  
+    
+    .sec5 {
+        margin-top: 200px;
+    }
+
+}
+
+@media(max-width:768px)
+{
+    
+    .sec5 {
+        margin-top: 500px;
+        padding-top: 250px;
+
+    }
+    
 }
