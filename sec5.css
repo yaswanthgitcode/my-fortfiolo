@@ -56,7 +56,7 @@
     .sec5 {
         margin-top: 600px;
         padding-top: 200px;
-
+        flex-direction: column;
 
     }
 
